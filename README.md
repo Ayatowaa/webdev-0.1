@@ -71,7 +71,7 @@ npm run db:migrate:local # Apply pending local migrations
 
 ## Contact and honest content
 
-The real portfolio contact opens an email draft to the address provided by the connected GitHub profile. It does not claim to send an email automatically. The GitHub profile link is real. Each case study provides a downloadable source archive. LinkedIn is omitted until a verified URL is supplied; add it to `lib/profile.ts` when available.
+The real portfolio contact opens an email draft to the owner's confirmed address, `resendecrm.sites@gmail.com`. It also displays the owner's phone number (`+55 (35) 98402-6321`) with a call link and Discord username (`will009`) with a copy button. It does not claim to send an email automatically. The GitHub profile link is real. Each case study provides a downloadable source archive. LinkedIn is omitted until a verified URL is supplied; add it to `lib/profile.ts` when available.
 
 Auren enquiries are validated locally but are not sent or stored. Orbit sample budgets are fictional estimates, not income or achieved results. Form checkout records a **simulated** order without collecting personal addresses or payment details.
 
