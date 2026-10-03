@@ -1,0 +1,12 @@
+node_modules
+.next
+.vinext
+.sites-runtime
+.wrangler
+dist
+vendor
+components/ui
+package-lock.json
+public
+build
+drizzle
